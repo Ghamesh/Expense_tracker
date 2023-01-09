@@ -1,0 +1,7 @@
+.expense-item__mt{
+    display:flex;
+    
+}
+.expense-item__mt div{
+    margin-right:5px;
+}
